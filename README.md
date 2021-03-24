@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Screenshots:
-file:///media/sharathkaarthick/SONGS/Screenshot%20from%202021-03-24%2013-49-23.png![image](https://user-images.githubusercontent.com/63258213/112297544-088b0180-8cbc-11eb-91a5-2f9bddc7bc82.png)
+(https://user-images.githubusercontent.com/63258213/112297544-088b0180-8cbc-11eb-91a5-2f9bddc7bc82.png)
 
 
 ## Available Scripts
