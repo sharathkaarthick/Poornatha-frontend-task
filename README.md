@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Screenshots:
+Top Navigation Bar:
 (https://user-images.githubusercontent.com/63258213/112297544-088b0180-8cbc-11eb-91a5-2f9bddc7bc82.png)
 
 
